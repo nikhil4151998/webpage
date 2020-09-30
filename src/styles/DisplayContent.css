@@ -1,0 +1,21 @@
+.info-title{font: 400 24px/36px "Open Sans";color: #4A4A4A;}
+.info-title-container,.market,.holdings{width: 90%;margin: 0 auto;align-items: center;border-bottom: 1px solid #d3d3d3;justify-content: space-between;}
+.info.col-7{padding: 0px;}
+.equity,.commodity{max-width: 50%;}
+.equity ul li,.icon-fonts,.commodity ul li,.holdings ul li{font:16px/25.6px "Open Sans";color: #444444;}
+.equity ul li,.icon-fonts,.commodity ul li{font-weight: 500!important;}
+.equity ul,.commodity ul,.holdings ul{list-style: 	none;margin-bottom: 0;padding: 	0}
+.sub-div1-equity ul,.sub-div1-commodity ul{padding-right: 58px;border-right: 1px solid #d3d3d3;}
+.sub-div2-equity ul,.sub-div2-commodity ul{padding-left: 27px;}
+.fa-chart-pie:before,.fa-briefcase:before{margin-right: 10px;}
+.pie-icon,.droplet-icon,.briefcase-icon{margin-bottom: 20px;}
+.icon-droplet:before {content: "\e84e";margin-right: 10px;}
+.sub-div1-equity ul li,.sub-div2-equity ul li,.sub-div1-commodity ul li,.sub-div2-commodity ul li,.sub-div1-holdings ul li,.sub-div2-holdings ul li{color: #9B9B9B;font-size: 12px;}
+.replace-img{font-size: 42px!important;color: #000000!important;margin-bottom:10px!important;}
+.info-title-container{margin-top: 30px;padding-bottom: 15px;}
+.market,.holdings{padding-bottom: 40px;padding-top: 30px;}
+.replace{font-size:42px!important;font-weight: 300!important;color: #ff5722!important;margin-bottom: 10px;}
+.bold-font{font-size: 14px;font-weight: 400;color: #444444;padding-left: 10px;}
+.sub-div2-holdings ul{padding-left: 60px;}
+.sub-div1-holdings ul{padding-right: 100px;border-right: 1px solid #d3d3d3;}
+.blue-box{height:50px;background-color: #247BA0;margin-top: 30px;width: 70%;}
